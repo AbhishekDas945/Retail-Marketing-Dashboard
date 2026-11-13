@@ -1,5 +1,11 @@
 # Retail Marketing Dashboard | Power BI & Power Query
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Measures%20%26%20KPIs-0078D4?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+
 ##  Project Overview
 The **Retail Marketing Dashboard** provides an end-to-end overview of sales performance, customer demographics, product categories, and store-level profitability. Using **Power Query** for data cleaning, shaping, and transformation, along with **Microsoft Power BI** for interactive visual storytelling, this project transforms raw retail transaction records into actionable business intelligence.
 
