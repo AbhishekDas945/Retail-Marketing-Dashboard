@@ -1,4 +1,4 @@
-# Retail-Marketing-Dashboard
+# 🛒 Retail Marketing Dashboard | Power BI & Power Query
 
 📌 Project Overview
 The Retail Marketing Dashboard provides an end-to-end overview of sales performance, customer demographics, product categories, and store-level profitability. Using Power Query for data cleaning, shaping, and transformation, along with Power BI for interactive visual storytelling, this project transforms raw retail transaction records into actionable business intelligence.
