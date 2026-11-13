@@ -1,11 +1,17 @@
 # Retail Marketing Dashboard | Power BI & Power Query
 
-## 📌 Project Overview
+##  Project Overview
 The **Retail Marketing Dashboard** provides an end-to-end overview of sales performance, customer demographics, product categories, and store-level profitability. Using **Power Query** for data cleaning, shaping, and transformation, along with **Microsoft Power BI** for interactive visual storytelling, this project transforms raw retail transaction records into actionable business intelligence.
 
+---
 
+## Dashboard Preview
 
-## 📊 Key Performance Indicators (KPIs)
+<img src= "https://github.com/AbhishekDas945/Retail-Marketing-Dashboard/blob/192f35a24fcbbe7a0925842fe117655cf3b88596/Screenshot%202026-11-05%20180609.png" alt = "Retail Marketing Dashboard" width = "1000">
+
+---
+
+##  Key Performance Indicators (KPIs)
 | Metric | Value  | Description  |
 |:--- |:--- |:---  |
 | **Total Sales** | **₹17.76bn** |Overall gross revenue generated across all stores and categories.   
@@ -15,14 +21,14 @@ The **Retail Marketing Dashboard** provides an end-to-end overview of sales perf
 | **Profit Margin** | **26.34%** |Overall profitability efficiency across all product lines.   
 | **Sales Growth** | **27.97%** |Period-over-period revenue expansion rate.
 
-
+---
 
 ## Tools & Technologies Used
 * **Microsoft Power BI Desktop**: Interactive dashboard design, data modeling, and visual analytics. 
 * **Power Query Editor**: ETL (Extract, Transform, Load) processes, data cleaning, column splitting, data type standardization, and query merging.
 * **DAX (Data Analysis Expressions)**: Custom calculated measures for Total Sales, Total Profit, Profit Margin %, and Sales Growth %.
 
-
+---
 
 ## Dashboard Features & Key Insights
 * **Dynamic Slicers & Filtering**: Equipped with top-level multi-select dropdowns for Year, Month Name, Region, Payment Mode, and Store Type to slice performance metrics in real time.
